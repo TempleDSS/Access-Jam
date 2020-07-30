@@ -1,7 +1,7 @@
 # Access-Jam
 Play on itch.io here: https://templedss.itch.io/inaccessible
 
-This game was created for Access Jam 2020
+This game was created for Access Jam 2020 by Jordan Hample, David Ross, and Alex Wermer-Colan
 
 The purpose of this game is to showcase accessible design goals, by highlighting design failures. Over the course of 3 simple mini games we will show a variety of accessibility topics concerning visual, hearing, and motor disabilities. 
 
